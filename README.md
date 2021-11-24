@@ -1,3 +1,9 @@
-# Your blog
+# Professional and Personal CV Blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This will be a repository for personal blog on projects.
+
+Project to be added
+* Anomaly Detection
+* NER for Music
+* Basic Web Scraper
+* CRF Thai Sentence Cut
