@@ -2,8 +2,12 @@
 
 This will be a repository for personal blog on projects.
 
-Project to be added
+Research Interest
+* LLM and MCDA
+Paper
+* Music Paper
+Project
 * Anomaly Detection
 * NER for Music
 * Basic Web Scraper
-* CRF Thai Sentence Cut
+
